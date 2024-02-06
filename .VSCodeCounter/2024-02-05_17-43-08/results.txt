@@ -1,0 +1,45 @@
+Date : 2024-02-05 17:43:08
+Directory : c:\Users\Lithium\OneDrive\桌面\preMCM
+Total : 17 files,  6375 codes, 6 comments, 41 blanks, all 6422 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |         15 |      6,177 |          0 |         15 |      6,192 |
+| pip requirements |          1 |        103 |          0 |          0 |        103 |
+| Python           |          1 |         95 |          6 |         26 |        127 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                              |         17 |      6,375 |          6 |         41 |      6,422 |
+| . (Files)                                                      |         15 |      4,258 |          6 |         39 |      4,303 |
+| new_thought                                                    |          2 |      2,117 |          0 |          2 |      2,119 |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                       | language         | code       | comment    | blank      | total      |
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\Lithium\OneDrive\桌面\preMCM\Deravitive.ipynb           | JSON             |        245 |          0 |          1 |        246 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\Momentum.ipynb             | JSON             |        345 |          0 |          1 |        346 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\add_new_features.ipynb     | JSON             |        439 |          0 |          1 |        440 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\add_new_features_script.py | Python           |         95 |          6 |         26 |        127 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\ds_split.ipynb             | JSON             |        320 |          0 |          1 |        321 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\heatmap.ipynb              | JSON             |        390 |          0 |          1 |        391 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\mcm2022C.ipynb             | JSON             |        192 |          0 |          1 |        193 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\new_thought\momentum.ipynb | JSON             |      1,934 |          0 |          1 |      1,935 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\new_thought\validate.ipynb | JSON             |        183 |          0 |          1 |        184 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\pca.ipynb                  | JSON             |        150 |          0 |          1 |        151 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\requirements.txt           | pip requirements |        103 |          0 |          0 |        103 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\scoretopoint.ipynb         | JSON             |        141 |          0 |          1 |        142 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\serve_with_winner.ipynb    | JSON             |        109 |          0 |          1 |        110 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\try_arima_model.ipynb      | JSON             |        607 |          0 |          1 |        608 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\use_xgboost.ipynb          | JSON             |        683 |          0 |          1 |        684 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\visualize.ipynb            | JSON             |        163 |          0 |          1 |        164 |
+| c:\Users\Lithium\OneDrive\桌面\preMCM\visualize_scorelines.ipynb | JSON             |        276 |          0 |          1 |        277 |
+| Total                                                          |                  |      6,375 |          6 |         41 |      6,422 |
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
